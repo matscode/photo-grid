@@ -23,7 +23,7 @@
 				</h1>
 				<p class="text">
 						For any Suggestion or Bug, you can contact the developer here, more features to be added in time keep mixing with no stamp <br /> 
-						<a href="http://www.facebook.com/promatmot"> Facebook </a> <br/>
+						<a href="http://www.facebook.com/matscode"> Facebook </a> <br/>
 						+2348186074929
 				</p>
 			</div>
