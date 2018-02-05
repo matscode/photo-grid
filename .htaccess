@@ -1,0 +1,16 @@
+
+# ---------------------------------------------
+#	Author: Michael Akanji
+# ---------------------------------------------
+
+Options +FollowSymlinks -indexes
+RewriteEngine On
+#RewriteBase /
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule . index.php [NC,L]
+
+
+# Should remember to change this when moving to my host online by removing /dl
+ErrorDocument 403 /errors/error_403.php
+ErrorDocument 404 /errors/error_404.php

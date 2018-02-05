@@ -1,0 +1,7 @@
+
+# ---------------------------------------------
+#	Author: Michael Akanji
+# ---------------------------------------------
+
+# Restrict access to this dir from users
+Deny from all

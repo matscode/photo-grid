@@ -1,0 +1,76 @@
+
+/* ---------------------------------------------
+	Author: Michael Akanji
+	Author URL: http://datalodge.(net, tk)
+   --------------------------------------------- */
+
+
+/* ---------------------------------
+	General Style
+   --------------------------------- */
+/* 
+body {
+	background-image: url("../img/bg.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin: 0px;
+	padding: 0px;
+}
+ */
+
+@media (min-width: 300px) {
+	.container {
+		margin: 1px;
+		padding: 1px;
+	}
+}
+
+.container {
+	max-width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+}
+	
+/* 
+#logo {
+	margin-bottom: 0px;
+}
+ */
+#navi {
+	border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-o-border-radius: 0px;
+	-ms-border-radius: 0px;
+	-moz-border-radius: 0px;
+	/* background-color: #bb6; */
+}
+
+.navbar-brand{
+	padding: 8px 20px;
+}
+
+.active{
+	background-color: ;
+}
+
+#foot{
+	border-width: 1px 0px 0px 0px;
+	border-top-style: solid;
+	border-top-color: #aaa;
+	border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-0-border-radius: 0px;
+	-ms-border-radius: 0px;	
+}
+
+/* ---------------------------------
+	Input Style
+   --------------------------------- */
+#searchInput {
+	width: 130px;
+	margin: auto 0px auto 5px;
+}
+
+.fileInput {
+	height: auto;
+}
